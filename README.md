@@ -8,3 +8,7 @@
 4. Git/Teamwork
 5. Computer Basics
 6. Responsive Design with different screen sizes
+
+## Links
+
+- [Project Board](https://github.com/0xJungle/learning-frontend/projects/1)
